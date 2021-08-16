@@ -1,0 +1,25 @@
+.App{   
+    height: 600px;
+    width: inherit;
+    background-image: url("./wallpaper2.jpg");
+    background-position: center center;
+    background-size: cover;  
+    background-attachment: fixed;
+}
+.qoutes{
+    width: 70%;
+    text-align: center;
+    align-content: center;
+    margin-left: 180px;
+    margin-top: 200px;
+}
+.qoutes span{
+    
+    text-align: center;
+    font-family: "Ink Draft";
+    color: #fffffe;
+    font-size: 80px;
+    line-height: 80px;
+}
+
+

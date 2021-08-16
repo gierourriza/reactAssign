@@ -1,0 +1,31 @@
+.logo{
+    display: inline-block;
+    width: 100%;
+    background-color: #1b1b1b;
+    padding: 20px;
+    padding-bottom: 0;
+
+   
+}
+.logo span{
+    color: #fffffe;
+    font-size: 50px;
+    font-family: "Bahnschrift SemiCondensed";
+}
+.selection{
+    float: right;
+}
+
+button{
+    background: transparent;
+    border: transparent;
+    color: #fffffe;
+    font-family: "Bahnschrift SemiCondensed";
+    font-size: 20px;
+    margin-right: 20px;
+}
+button:hover{
+    color:#ebc55e;
+    border-bottom: 3px solid #ebc55e;
+}
+
